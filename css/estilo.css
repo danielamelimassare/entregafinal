@@ -1,0 +1,101 @@
+body {
+  background-color: #EBD6B6;
+}
+
+footer {
+  margin-top: 30px;
+  border-top: 1px solid sienna;
+  padding-top: 20px;
+}
+
+.encabezado {
+  background-color: #EBD6B6;
+  border-bottom: 1px solid sienna;
+}
+
+.melFotografia {
+  margin: 20px;
+  color: sienna;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  padding: 20px;
+}
+
+.cardcolor {
+  background-color: #EBD6B6;
+}
+
+.btnCard {
+  background-color: sienna;
+  color: #EBD6B6;
+}
+.btnCard:hover {
+  background-color: rgb(223, 96, 37);
+}
+
+.titulogrande,
+.introGaleria {
+  color: sienna;
+  text-align: center;
+}
+
+.titulogrande {
+  background-color: #EBD6B6;
+  padding: 16px;
+}
+.titulogrande h2 {
+  font-size: 3rem;
+}
+
+.introGaleria {
+  font-size: 3rem;
+  padding: 20px;
+  border: 1px solid sienna;
+  margin-bottom: 3rem;
+}
+
+.subtitulo {
+  padding: 16px;
+  background-color: #EBD6B6;
+  color: sienna;
+  text-align: center;
+}
+
+.form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  font-weight: 5px;
+  color: sienna;
+}
+
+textarea {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 2px solid sienna;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.botonFormulario {
+  background-color: sienna;
+  color: bisque;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.botonFormulario:hover {
+  background-color: rgb(223, 96, 37);
+}
+
+/*# sourceMappingURL=estilo.css.map */
